@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Black Panther Quiz</string>
+
+    <string name="question1">1. Which Comic Book Did Black Panther originally debuted in?</string>
+    <string name="question1_choice1">Batman</string>
+    <string name="question1_choice2">Fantastic Four</string>
+    <string name="question1_choice3">Wonder Man</string>
+
+    <string name="question2">2. Are You From Wakanda?</string>
+
+    <string name="question3">3. Who Is A Villain of Black Panther?</string>
+    <string name="question3_choice1">Erik Killmonger</string>
+    <string name="question3_choice2">Kingpin</string>
+    <string name="question3_choice3">Princess Zanda</string>
+    <string name="question3_choice4">Captain America</string>
+
+    <string name="question4">4. What is Black Panther birth name?</string>
+
+    <string name="question5">5. Who is the Wife and Queen of Black Panther?</string>
+    <string name="question5_choice1">Sue Richards</string>
+    <string name="question5_choice2">Shuri</string>
+    <string name="question5_choice3">Storm</string>
+    <string name="question5_choice4">Ororo Munroe</string>
+
+    <string name="question6">6. Black Panther was the first black superhero?</string>
+    <string name="question6_choice1">True</string>
+    <string name="question6_choice2">False</string>
+
+    <string name="submit_answers">Submit Answers</string>
+</resources>
